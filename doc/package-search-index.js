@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.azurian.technical.test"},{"l":"com.azurian.technical.test.rest.model"}];updateSearchResults();
