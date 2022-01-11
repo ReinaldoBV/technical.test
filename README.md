@@ -12,6 +12,8 @@ El proyecto es un servicio Rest lado servidor creado con spring boot y un client
 Nota:
 Es importante que sea localhost y puerto 8080 porque asi se codifico el llamado del cliente Rest
 
+## Postman ##
+
 Consultar por postman o browser
 
 	Method: GET, URL: http://localhost:8080/people
